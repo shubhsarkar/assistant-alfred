@@ -129,6 +129,10 @@ if __name__ == "__main__":
             webbrowser.open("www.google.com/gmail/")
             flag = True
 
+        elif 'open github' in query:
+            webbrowser.open("www.github.com")
+            flag = True
+
         elif 'play' and 'youtube' in query:
             query = query.replace("play", "")
             query = query.replace("youtube", "")
