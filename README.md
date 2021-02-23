@@ -22,3 +22,5 @@ Run the program:
 - to search anything, say "search", then what you want to search, then "google". For eg: "search github google"
 - to play any youtube video, say "play", then the video name, then "youtube". For eg: "play in the end youtube"
 - to send an email, say "send an email" and then the person name, then the content of the email. For eg: "send an email", then "bruce", then "Hello Master Bruce"
+
+## Any suggestions are highly welcomed.
